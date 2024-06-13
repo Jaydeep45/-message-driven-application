@@ -15,7 +15,6 @@ import java.util.concurrent.TimeUnit;
  */
 public class App {
 
-    // A logger instance for logging application-level messages.
 
     public static void main( String[] args ) {
         // Create a message queue for communication between producer and consumer
