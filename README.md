@@ -22,7 +22,7 @@
     - Run the compiled program:
 
       ```bash
-      java -jar target\message-driven-application-1.0-SNAPSHOT.jar
+      java -jar target/message-driven-application-1.0-SNAPSHOT.jar
 
 3. **Running Tests:**
 
